@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\bin\Debug\ADOdotNET_data_providers.exe.config
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\bin\Debug\ADOdotNET_data_providers.exe
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\bin\Debug\ADOdotNET_data_providers.pdb
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\obj\Debug\ADOdotNET_data_providers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\obj\Debug\ADOdotNET_data_providers.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\obj\Debug\ADOdotNET_data_providers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\obj\Debug\ADOdotNET_data_providers.exe
+C:\Users\User\source\repos\ADOdotNET_data_providers\ADOdotNET_data_providers\obj\Debug\ADOdotNET_data_providers.pdb
